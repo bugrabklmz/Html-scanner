@@ -1,0 +1,7 @@
+HTML Vulnerability Scanner Report is  as follows:
+===================================
+
+Insecure form /post.php found in document 
+Comment Issue: Key is found in the HTML comments, please remove
+Input Issue: Plaintext password input found.
+ 
